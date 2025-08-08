@@ -95,6 +95,14 @@ main {
     transform: translateY(-5px);
 }
 
+.column img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+}
+
+/* Footer */
 footer {
     background-color: #004466;
     color: white;
